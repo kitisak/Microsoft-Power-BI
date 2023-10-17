@@ -1,0 +1,3 @@
+LAB Instruction : https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/
+
+LAB File : https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst
